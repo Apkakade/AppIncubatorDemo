@@ -1,0 +1,51 @@
+{
+    "EnglishData":[{
+        "ImgName": "Desktop 1",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    },
+    {
+        "ImgName": "Desktop 2",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    },{
+        "ImgName": "Desktop 3",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    }],
+    "HindiData":[{
+        "ImgName": "डेस्कटॉप 1",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    },
+    {
+        "ImgName": "डेस्कटॉप 2",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        },{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    },{
+        "ImgName": "डेस्कटॉप 3",
+        "ImgData": [{
+            "imgUrl" : "https://cdn.arstechnica.net/wp-content/uploads/2018/06/macOS-Mojave-Dynamic-Wallpaper-transition.jpg"
+        }]
+    }]
+    
+}
